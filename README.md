@@ -1,8 +1,8 @@
 # Scientific Python Lectures for Summer School on Quantum Dynamics of Matter, Light and Information (SMR4095)
 
-1. [![Open Intro in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/claumann/ictp2025/blob/main/Intro-2025-ICTP-Colab.ipynb) Intro Lecture
-2. [![Open Intro2 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/claumann/ictp2025/blob/main/Intro2-2025-ICTP-Colab.ipynb) Intro2 Lecture
-3. [![Open Opt2DMC in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/claumann/ictp2025/blob/main/Opt2DMC-2025-ICTP-Colab.ipynb) Principles of Optimization (2D Ising)
+1. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg) Intro Lecture](
+https://colab.research.google.com/github/claumann/ictp2025/blob/main/Intro-2025-ICTP-Colab.ipynb)
+2. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg) Intro2 Lecture](
+https://colab.research.google.com/github/claumann/ictp2025/blob/main/Intro2-2025-ICTP-Colab.ipynb) 
+3. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg) Principles of Optimization (2D Ising)](
+https://colab.research.google.com/github/claumann/ictp2025/blob/main/Opt2DMC-2025-ICTP-Colab.ipynb) 
